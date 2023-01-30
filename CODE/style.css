@@ -1,0 +1,17 @@
+html,
+body
+{
+    background-color: blueviolet;
+    margin-top: 50px;
+}
+img 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+form
+{
+    box-align:"center";
+}

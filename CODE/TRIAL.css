@@ -1,0 +1,44 @@
+html,
+body
+{
+    background-color: #014067;
+    align-items: center ;
+    margin-top: 25px;
+    margin-left: 5px;
+}
+.logo 
+{
+    display:inline;
+    width: 30%;
+}
+hr{
+    border: 6px dashed rgb(255, 255, 255);
+    border-radius: 5px;
+}
+h2{
+    margin-left: 0px;
+    color: rgb(255, 255, 255);
+}
+#song_card{
+    color: rgb(255, 255, 255);
+}
+img{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+}
+.song_card{
+    border-radius: 25px;
+    border: 6px solid #ffffff;
+    background-color: rgba(255, 255, 255, 0.253);
+    margin-left: 40px;
+    margin-right: 40px;
+    display: inline-block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+    text-align: center;
+    color: white;
+    margin-bottom: 36px;
+}

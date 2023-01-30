@@ -1,0 +1,37 @@
+html,
+body
+{
+    background-color: blueviolet;
+    margin-top: 50px;
+}
+#logo img
+{
+    left: 20%;
+    right: 20%;
+}
+img 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+button
+{
+    margin:10px;
+}
+.relative {
+    padding: 10px;
+    position: relative;
+    margin: 10px;
+   } 
+.navitem {
+     display: inline-block;
+     width: 30px; 
+     height: 70px; 
+     text-align: center;
+     border: gray;
+     background-color: #E8562A;
+     cursor: pointer;
+     font-weight: bold;
+   }

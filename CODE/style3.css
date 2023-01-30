@@ -1,0 +1,22 @@
+html,
+body
+{
+    background-color: blueviolet;
+    margin-top: 50px;
+}
+#logo img
+{
+    left: 20%;
+    right: 20%;
+}
+img 
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 30%;
+}
+button
+{
+    margin:10px;
+}
